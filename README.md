@@ -1,6 +1,7 @@
 # Installation
 
-1. **Extract this zip file**
+1. **Extract this zip file / Clone this repository**
+   * Repository: https://github.com/hrssatawara/url-shortner
 2. **Run the command**
    ```
    composer install
